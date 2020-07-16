@@ -1,0 +1,20 @@
+{
+  "name": "awsenv",
+  "version": "0.0.1",
+  "description": "Read AWS settings from SSM, SecretsManager and CloudFormation to shell environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "awsenvjs": "index.js",
+    "awsenv": "wrapper.sh"
+  },
+  "author": "Taimos GmbH",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.714.0",
+    "js-yaml": "^3.14.0",
+    "proxy-agent": "^3.1.1"
+  }
+}
