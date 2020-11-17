@@ -1,5 +1,5 @@
 {
-  "name": "awsenv",
+  "name": "@taimos/awsenv",
   "version": "0.0.1",
   "description": "Read AWS settings from SSM, SecretsManager and CloudFormation to shell environment",
   "main": "index.js",

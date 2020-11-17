@@ -4,7 +4,7 @@ awsenv is a NodeJS command line tool to populate your Bash environment with valu
 
 ## Installation
 
-To install awsenv open a terminal and issue: `npm install -g awsenv`
+To install awsenv open a terminal and issue: `npm install -g @taimos/awsenv`
 
 ## Usage
 
