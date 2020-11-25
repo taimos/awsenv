@@ -19,7 +19,7 @@ variables:
   AZURE_AD_TENANT: secret:AzureAD:TenantId
 ```
 
-When running `awsenv` in your shell, it will populate it with additional environment variables with the specified values.
+When running `source awsenv` in your shell, it will populate it with additional environment variables with the specified values.
 
 Supported sources are:
 
